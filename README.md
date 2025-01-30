@@ -11,6 +11,7 @@ The Paris Olympics Analytics Dashboard is an interactive Power BI dashboard desi
 
 ## 🎯 Why I Chose This Project?
 The Olympics is a globally significant event, rich in data spanning multiple decades, making it an ideal dataset for exploring trends, patterns, and impactful insights. 
+
 Through this project, I aimed to:
 ✔ Apply Power BI skills in real-world sports analytics.
 ✔ Showcase data versatility by working with a multi-dimensional dataset.
@@ -31,6 +32,28 @@ I performed:
 🔹 Visual Representation & Storytelling:
   Used bar charts, heatmaps, treemaps, and line charts for comparative analysis.
   Implemented interactive tooltips & slicers for an engaging experience.
+
+📊 Key Insights from the Dashboard
+🔹 Medal Trends & Country Dominance:
+  Certain countries consistently dominate Olympic events across different years.
+  Host countries often see an increase in medal count due to home advantage.
+
+🔹 Athlete Demographics (Age & Gender Analysis):
+  The average age of medalists varies across sports, with gymnastics favoring younger athletes and marathon events having older participants.
+  The gender gap in participation has narrowed significantly over time, reflecting the progress in inclusivity.
+
+🔹 Event & Sport-Wise Analysis:
+Some sports have a higher medal distribution due to multiple event categories.
+
+⚡ Skills Demonstrated
+✅ Data Cleaning & Preparation (Power Query, Data Modeling)
+✅ DAX Calculations (Aggregations, Conditional Measures, Filters)
+✅ Interactive Dashboards & Visualizations (Charts, Tooltips, Slicers)
+✅ Analytical Thinking & Insight Generation
+
+🚀 Tools Used
+🔹 Power BI (Data Visualization & Modeling)
+🔹 DAX (Advanced Calculations & Measures)
 
 
 
